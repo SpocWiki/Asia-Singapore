@@ -16,7 +16,7 @@ confidential: public
 [geo-lat::1.28] 
 [name::Singapore=Singapur] 
 State ::  
-Country :: [[Singapore]]  
+Country :: [[../../../../Malay_Archipelago/Singapore]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
