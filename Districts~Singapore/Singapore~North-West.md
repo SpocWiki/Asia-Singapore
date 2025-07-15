@@ -40,11 +40,18 @@ markerFolder: ./North_West/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West|North_West]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.public|North_West.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.internal|North_West.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.protect|North_West.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.private|North_West.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.personal|North_West.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore/Counties/North_West.secret|North_West.secret]] 
+
+### #is_/same_as :: [Singapore~North-West](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~North-West.md) 
+
+### #is_/same_as :: [Singapore~North-West.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~North-West.public.md) 
+
+### #is_/same_as :: [Singapore~North-West.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~North-West.internal.md) 
+
+### #is_/same_as :: [Singapore~North-West.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~North-West.protect.md) 
+
+### #is_/same_as :: [Singapore~North-West.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~North-West.private.md) 
+
+### #is_/same_as :: [Singapore~North-West.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~North-West.personal.md) 
+
+### #is_/same_as :: [Singapore~North-West.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~North-West.secret.md)
 

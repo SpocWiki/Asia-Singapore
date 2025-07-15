@@ -135,10 +135,4 @@ Capital :: [[Singapore=Singapur]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Singapore|Singapore]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South~East/Singapore.internal|Singapore.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South~East/Singapore.protect|Singapore.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South~East/Singapore.private|Singapore.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South~East/Singapore.personal|Singapore.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South~East/Singapore.secret|Singapore.secret]] 
+
