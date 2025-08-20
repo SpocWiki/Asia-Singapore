@@ -1,30 +1,29 @@
 ---
-location: [ 1.35 , 103.85 ] 
+location:
+  - 1.35
+  - 103.85
 type: geo-Region
 title: Central_Singapore
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Central_Singapore
-
+  - Central_Singapore
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # [[Singapore~Central]] 
