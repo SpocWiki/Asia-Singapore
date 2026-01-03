@@ -135,5 +135,19 @@ Capital :: [[Singapore=Singapur]]
 [geo-lat::1.28] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/ReadMe|ReadMe]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/ReadMe.public|ReadMe.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/ReadMe.internal|ReadMe.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/ReadMe.protect|ReadMe.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/ReadMe.private|ReadMe.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/ReadMe.personal|ReadMe.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/ReadMe.secret|ReadMe.secret]] 
 

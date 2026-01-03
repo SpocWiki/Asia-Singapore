@@ -40,17 +40,17 @@ markerFolder: ./Central_Singapore/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Singapore~Central](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central|Singapore~Central]] 
 
-### #is_/same_as :: [Singapore~Central.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.public|Singapore~Central.public]] 
 
-### #is_/same_as :: [Singapore~Central.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.internal|Singapore~Central.internal]] 
 
-### #is_/same_as :: [Singapore~Central.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.protect|Singapore~Central.protect]] 
 
-### #is_/same_as :: [Singapore~Central.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.private|Singapore~Central.private]] 
 
-### #is_/same_as :: [Singapore~Central.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.personal|Singapore~Central.personal]] 
 
-### #is_/same_as :: [Singapore~Central.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/Districts~Singapore/Singapore~Central.secret|Singapore~Central.secret]] 
 

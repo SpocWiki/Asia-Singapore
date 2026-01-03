@@ -25,3 +25,20 @@ Commons_category: History of Singapore
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Singapore) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/History_of_Singapore|History_of_Singapore]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/History_of_Singapore.public|History_of_Singapore.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/History_of_Singapore.internal|History_of_Singapore.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/History_of_Singapore.protect|History_of_Singapore.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/History_of_Singapore.private|History_of_Singapore.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/History_of_Singapore.personal|History_of_Singapore.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore/History_of_Singapore.secret|History_of_Singapore.secret]] 
+
