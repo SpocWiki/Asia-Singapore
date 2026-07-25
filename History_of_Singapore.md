@@ -1,9 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q1969320
-part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_city,28747937|WD~history_of_a_city,28747937]]"
-facet_of: "[[_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]"
+part_of: "[[/_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]"
+instance_of: "[[/_Standards/WikiData/WD~history_of_a_city,28747937|WD~history_of_a_city,28747937]]"
+facet_of: "[[/_Standards/WikiData/WD~Singapore,334|WD~Singapore,334]]"
 Commons_category: History of Singapore
 ---
 
