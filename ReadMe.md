@@ -27,7 +27,7 @@ dv_UNTERM_Chinese_Formal: 新加坡共和国
 dv_UNTERM_French_Formal: la République de Singapour
 dv_UNTERM_Russian: Сингапур
 dv_UNTERM_Russian_Formal: Республика Сингапур
-dv_Region_Name: '[[../../../Asia|Asia]]'
+dv_Region_Name: '[[../../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Singapore]]'
 dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
@@ -53,7 +53,7 @@ dv_ISO2: SG
 dv_ISO3: SGP
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Singapore,334|WD~Singapore,334]]'
+  - '[[../../../../../../WikiData/WD~Singapore,334|WD~Singapore,334]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore|Singapore]]'
   - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.public|Singapore.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.internal|Singapore.internal]]'
@@ -371,17 +371,17 @@ dv_has_:
 dv_has_name_de: Singapur
 dv_Area-Total: 641
 dv_Area-Land: 610
-dv_has_place_continent: '[[../../../Asia|Asia]]'
+dv_has_place_continent: '[[../../../../Asia|Asia]]'
 dv_VehicleCode: SGP
 dv_Capital: '[[Singapore=Singapur]]'
 dv_Alcohol-l: 1.6
 dv_Language-Id: 499
-dv_is_a_: '[[../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 103.85
 dv_has_place_latitude: 1.28
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Singapore,334|WD~Singapore,334]]'
+- '[[../../../../../../WikiData/WD~Singapore,334|WD~Singapore,334]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore|Singapore]]'
 - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.public|Singapore.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.internal|Singapore.internal]]'
@@ -596,7 +596,7 @@ different_from:
 capital_of: '[[/_Standards/WikiData/WD~Straits_Settlements,376178|WD~Straits_Settlements,376178]]'
 flag: '[[/_Standards/WikiData/WD~flag_of_Singapore,483659|WD~flag_of_Singapore,483659]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
 - '[[/_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
@@ -977,7 +977,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Singapore/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -997,7 +997,7 @@ defaultZoom: 9
 
 ```leaflet
 id: Singapore_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1025,7 +1025,7 @@ Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Singapore.svg|350]]
 
-![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Singapore.mp3|Anthem-Singapore.mp3]]
+![[../../../../../../../_public/xLarge.public/National-Anthem/Anthem-Singapore.mp3|Anthem-Singapore.mp3]]
 
 ![[Flag_of_Singapore.svg|350]]
 
